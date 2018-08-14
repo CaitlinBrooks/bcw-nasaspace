@@ -9,4 +9,7 @@ export default class Picture {
     this.title = reqData.title
     this.url = reqData.url
   }
+  getPictures() {
+
+  }
 }
